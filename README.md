@@ -1,3 +1,3 @@
 ##tarun91vas.github.io
 
-Personal website: WIP
+This is my personal website where you can find link to my blog posts and other useful resources and notes.
