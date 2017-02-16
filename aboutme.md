@@ -8,7 +8,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-A computer software professional, worked as a <strong>software engineer</strong> in startups like <a href="https://www.stayzilla.com" target="_blank">Stayzilla</a> and <a href="http://www.aspiringminds.com/" target="_blank"> Aspiring Minds</a>.
+A computer software professional, worked as a <strong>software engineer</strong> for startups like <a href="https://www.stayzilla.com" target="_blank">Stayzilla</a> and <a href="http://www.aspiringminds.com/" target="_blank"> Aspiring Minds</a>.
 </p>
 
 <p class="about-text">
