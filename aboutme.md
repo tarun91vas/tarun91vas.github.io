@@ -23,7 +23,7 @@ I enjoy writing <strong>softwares</strong>  or anything that is useful for other
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Running, Music and MMA are things that help me calm down. Travelling and trekking for all time high. And a good time spent on exploring things (Anything).
+Running, Music and MMA are things that help me calm down. Travelling and trekking for all time high. And a good time is spent on exploring things (Anything).
 </p>
 </div>
 
